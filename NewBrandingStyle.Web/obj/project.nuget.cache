@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsbrGWMtVP/5ielwyNCQvoNtr0PXLb+Qb0WgBDiRNauv3sxunosyBrcLG2GEhR086qpRDmAh78yK27ShPAGXxA==",
+  "dgSpecHash": "XjWFjry9MRrk09Hgpwe3ekzh6B5miq9rCZlWactFdO84f4adGPBPnt9faE+WtK0arhwez2/4PchCzX2MA6guzg==",
   "success": true,
-  "projectFilePath": "H:\\Github\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
+  "projectFilePath": "H:\\Github\\NewBrandingStyle\\ASP.NET-Project\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

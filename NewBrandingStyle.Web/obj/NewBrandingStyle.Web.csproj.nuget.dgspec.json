@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Github\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj": {}
+    "H:\\Github\\NewBrandingStyle\\ASP.NET-Project\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj": {}
   },
   "projects": {
-    "H:\\Github\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj": {
+    "H:\\Github\\NewBrandingStyle\\ASP.NET-Project\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Github\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
+        "projectUniqueName": "H:\\Github\\NewBrandingStyle\\ASP.NET-Project\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
         "projectName": "NewBrandingStyle.Web",
-        "projectPath": "H:\\Github\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
+        "projectPath": "H:\\Github\\NewBrandingStyle\\ASP.NET-Project\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
         "packagesPath": "C:\\Users\\GregoreK\\.nuget\\packages\\",
-        "outputPath": "H:\\Github\\NewBrandingStyle\\NewBrandingStyle.Web\\obj\\",
+        "outputPath": "H:\\Github\\NewBrandingStyle\\ASP.NET-Project\\NewBrandingStyle.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "H:\\Microsoft\\Xamarin\\NuGet\\"
