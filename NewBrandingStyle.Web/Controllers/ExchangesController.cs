@@ -1,5 +1,4 @@
-﻿using ExchangeThings.Web.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using NewBrandingStyle.Web.Models;
 using System;
 using System.Collections.Generic;

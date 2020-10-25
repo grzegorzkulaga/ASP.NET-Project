@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExchangeThings.Web.Models
+namespace NewBrandingStyle.Web.Models
 {
     public class ExchangesAddViewModel
     {
